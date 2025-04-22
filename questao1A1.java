@@ -15,7 +15,9 @@ public class CalcularAreaTrianngulo{
       double area = (base * altura) /2;
 
       System.out.printf("a area é %.2f \n" area);
-  
+    }
+}
+
   
   
       
